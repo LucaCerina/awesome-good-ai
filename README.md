@@ -9,6 +9,7 @@ If you want to add something to this list, open a Pull Request.
 * Projects that do not exploit workers. If your model is trained by exploiting overseas and south of the world labor, this is not the place for it.
 * Projects that try as much as possible to be green. Models with hundreds of billions of parameters are notoriously expensive to train in terms of water for data servers, energy that may come from fossil fuels and real estate that could be used for housing.
 * Projects that try to prevent further biases, racial and social injustice, exploitation of local cultures and generally any further enshittification of internet
+* Projects that respect the data used for training: copyright, voluntary participation and curation. Not mindless scraping of the web. 
 
 ## Contents
 1. [Research Institutes & Companies](#institutes)
