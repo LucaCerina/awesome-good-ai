@@ -12,14 +12,17 @@ If you want to add something to this list, open a Pull Request.
 * Projects that respect the data used for training: copyright, voluntary participation and curation. Not mindless scraping of the web. 
 
 ## Contents
-1. [Research Institutes & Companies](#institutes)
-2. [Fields of application](#fields)
+1. [Research Institutes & Companies](#research-institutes-and-companies)
+2. [Fields of application](#fields-of-application)
 
 ### Research Institutes and Companies
-* [DAIR](https://www.dair-institute.org/) - an independent, community-rooted institute set to counter Big Tech’s pervasive influence on the research, development and deployment of AI.
+* [DAIR](https://www.dair-institute.org/) - An independent, community-rooted institute set to counter Big Tech’s pervasive influence on the research, development and deployment of AI.
+* [WildMe](https://www.wildme.org/what-we-do.html) - On a mission to scale wildlife research and support conservationists by providing multi-feature techniques, speed, and accuracy in animal monitoring.
 
 ### Fields of application
 #### Machine translation
 * [Lesan](lesan.ai) - Building machine translation systems for languages with millions of speakers, starting in Ethiopia.
 #### Speech recognition
-* [Te Hiku Media / Te Reo Māori](https://tehiku.nz/te-hiku-tech/papa-reo/14135/te-reo-maori-speech-recognition) - Revitalising and protecting Māori language and giving back the power to the indigenous communities
+* [Te Hiku Media / Te Reo Māori](https://tehiku.nz/te-hiku-tech/papa-reo/14135/te-reo-maori-speech-recognition) - Revitalising and protecting Māori language and giving back the power to the indigenous communities.
+#### Wildlife conservation
+* [WildMe code](https://github.com/WildMeOrg) - Open source code from the WildMe group.
