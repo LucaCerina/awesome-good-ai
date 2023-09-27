@@ -13,11 +13,15 @@ If you want to add something to this list, open a Pull Request.
 
 ## Contents
 1. [Research Institutes & Companies](#research-institutes-and-companies)
-2. [Fields of application](#fields-of-application)
+2. [Dissemination and AI literacy](#dissemination-and-ai-literacy)
+3. [Fields of application](#fields-of-application)
 
 ### Research Institutes and Companies
 * [DAIR](https://www.dair-institute.org/) - An independent, community-rooted institute set to counter Big Tech’s pervasive influence on the research, development and deployment of AI.
 * [WildMe](https://www.wildme.org/what-we-do.html) - On a mission to scale wildlife research and support conservationists by providing multi-feature techniques, speed, and accuracy in animal monitoring.
+
+### Dissemination and AI literacy
+* [Montreal AI Ethics Institute](https://montrealethics.ai/) - An international non-profit organization equipping citizens concerned about artificial intelligence and it’s impact on society to take action.
 
 ### Fields of application
 #### Machine translation
