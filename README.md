@@ -26,6 +26,8 @@ If you want to add something to this list, open a Pull Request.
 * [Montreal AI Ethics Institute](https://montrealethics.ai/) - An international non-profit organization equipping citizens concerned about artificial intelligence and it’s impact on society to take action.
 
 ### Fields of application
+#### Creators protection / fair training
+* [FairlyTrained](https://www.fairlytrained.org) - Fairly Trained exists to make it clear which companies take a more consent-based approach to training [AI], and are therefore treating creators more fairly.
 #### Machine translation
 * [Lesan](lesan.ai) - Building machine translation systems for languages with millions of speakers, starting in Ethiopia.
 #### Speech recognition
