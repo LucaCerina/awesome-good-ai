@@ -19,7 +19,7 @@ If you want to add something to this list, open a Pull Request.
 ### Research Institutes and Companies
 * [Algorithm Audit](https://algorithmaudit.eu/) - Algorithm Audit is a European non-profit knowledge platform for AI bias testing and normative AI standards. 
 * [Black in AI](https://blackinai.github.io/#/) - A place for sharing ideas, fostering collaborations and discussing initiatives to increase the presence of Black people in the field of Artificial Intelligence.
-* [DAIR](https://www.dair-institute.org/) - An independent, community-rooted institute set to counter Big Tech’s pervasive influence on the research, development and deployment of AI.
+* [DAIR](https://www.dair-institute.org/) - An independent, community-rooted institute set to counter Big Tech’s pervasive influence on the research, development and deployment of AI. Also on GitHub [DAIR-AI](https://github.com/dair-ai)
 * [WildMe](https://www.wildme.org/what-we-do.html) - On a mission to scale wildlife research and support conservationists by providing multi-feature techniques, speed, and accuracy in animal monitoring.
 
 ### Dissemination and AI literacy
