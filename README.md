@@ -34,3 +34,5 @@ If you want to add something to this list, open a Pull Request.
 * [Te Hiku Media / Te Reo Māori](https://tehiku.nz/te-hiku-tech/papa-reo/14135/te-reo-maori-speech-recognition) - Revitalising and protecting Māori language and giving back the power to the indigenous communities.
 #### Wildlife conservation
 * [WildMe code](https://github.com/WildMeOrg) - Open source code from the WildMe group.
+#### Autonomous agent trust & accountability
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Open trust scoring for AI agents operating on public networks. Provides verifiable agent wallet identity before autonomous agents access paid APIs via x402 micropayments — enabling accountable, traceable autonomous AI in public-benefit systems. Free MCP server for integration.
